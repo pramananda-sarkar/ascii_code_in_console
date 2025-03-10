@@ -5,5 +5,6 @@
         "string.h": "c",
         "utils.h": "c",
         "color.h": "c"
-    }
+    },
+    "C_Cpp.errorSquiggles": "disabled"
 }
